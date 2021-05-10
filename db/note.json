@@ -1,0 +1,19 @@
+{
+    "_id" : ObjectId("5fd399a680094314148477f8"),
+    "Meta" : {
+        "CreationDate" : ISODate("2020-12-11T15:21:28.104Z"),
+        "Template" : {
+            "Name" : "Basic Note",
+            "Version" : 1
+        }
+    },
+    "Content" : {
+        "Title" : "MVP",
+        "Descrption" : "Build a minimum viable product",
+        "Comments" : "",
+        "Status" : "IN_PROGRESS",
+        "Tags" : [ 
+            "kublai"
+        ]
+    }
+}

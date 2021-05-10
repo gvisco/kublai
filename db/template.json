@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("5fd38e7880094314148477f7"),
+    "Meta" : {
+        "CreationDate" : ISODate("2020-12-11T15:21:28.104Z"),
+        "Name" : "Basic Note",
+        "Version" : 1
+    },
+    "Content" : {
+        "Title" : "TODO",
+        "Descrption" : "",
+        "Coments" : "",
+        "Status" : "[TODO|IN_PROGRESS|ON_HOLD|DONE]"
+    }
+}
